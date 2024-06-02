@@ -18,9 +18,9 @@
         <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
       </a>
     </div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-rezk-dev.ahmed-rezk-dev&"  />
     </h2>
 </div>
-
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -32,12 +32,6 @@
 ###
 
 <p align="left">🔭   A passionate frontend developer from the USA<br><br>✌️   Enjoy to do programming and sharing knowledge<br><br>❤️   Love to writing code and learning new features</p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmed-rezk-dev.ahmed-rezk-dev&"  />
-</div>
 
 ###
 
