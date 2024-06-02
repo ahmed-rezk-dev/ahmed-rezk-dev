@@ -1,6 +1,25 @@
 <br clear="both">
+<div>
+  <h2 align="center">Hi there..👋, I'm Ahmed
+    <br> <br>
+    <div align="center">
+      <a href="https://www.linkedin.com/in/ahmed-rezk-dev/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+      </a>
+      <a href="rezk5024@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+      </a>
+      <a href="https://x.com/A7medmesbah" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+      </a>
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+      <a href="https://stackoverflow.com/users/12115225/ahmed-rezk" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+      </a>
+    </div>
+    </h2>
+</div>
 
-<h2 align="left">Hi there..👋, I'm Ahmed</h2>
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -12,26 +31,6 @@
 ###
 
 <p align="left">🔭   A passionate frontend developer from the USA<br><br>✌️   Enjoy to do programming and sharing knowledge<br><br>❤️   Love to writing code and learning new features</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-rezk-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="rezk5024@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/A7medmesbah" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://stackoverflow.com/users/12115225/ahmed-rezk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
 
 ###
 
@@ -60,9 +59,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-rezk-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" width="33%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-rezk-dev&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" width=25%" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahmed-rezk-dev&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" width="35%" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-rezk-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" width="35%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-rezk-dev&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" width=27%" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmed-rezk-dev&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" width="37%" alt="streak graph"  />
   
   <img src="https://github-profile-trophy.vercel.app?username=ahmed-rezk-dev&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
